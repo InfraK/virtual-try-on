@@ -2,6 +2,8 @@
 
 A learning project exploring, image generation capabilities of [Gemini Nano Banana](https://gemini.google/overview/image-generation/), creating a virtual try-on. Upload a photo and visualize clothing items on yourself.
 
+![Screenshot](screenshot.png)
+
 ## Tech Stack
 
 - [Next.js](https://nextjs.org/) - React framework
